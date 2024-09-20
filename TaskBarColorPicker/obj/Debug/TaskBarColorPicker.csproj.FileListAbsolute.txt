@@ -19,3 +19,14 @@ C:\Users\Dylan\Documents\Projects\Taskbar-Color-Picker\TaskBarColorPicker\bin\De
 C:\Users\Dylan\Documents\Projects\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.exe
 C:\Users\Dylan\Documents\Projects\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.pdb
 C:\Users\Dylan\Documents\Projects\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskbarColorPicker.csprojAssemblyReference.cache
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\bin\Debug\TaskBarColorPicker.exe.config
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\bin\Debug\TaskBarColorPicker.exe
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\bin\Debug\TaskBarColorPicker.pdb
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskbarColorPicker.csproj.AssemblyReference.cache
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskbarColorPicker.BlockInteraction.resources
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.Properties.Resources.resources
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.Settings.resources
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskbarColorPicker.csproj.GenerateResource.cache
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskbarColorPicker.csproj.CoreCompileInputs.cache
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.exe
+D:\Working\See Sharp\Tools\Taskbar-Color-Picker\TaskBarColorPicker\obj\Debug\TaskBarColorPicker.pdb

@@ -34,11 +34,11 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(13, 13);
+            this.checkBox1.Location = new System.Drawing.Point(12, 12);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(103, 17);
+            this.checkBox1.Size = new System.Drawing.Size(198, 17);
             this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "Autorun on login";
+            this.checkBox1.Text = "Tự động mỗi khi khởi động máy tính";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
@@ -46,7 +46,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(251, 105);
+            this.ClientSize = new System.Drawing.Size(226, 38);
             this.Controls.Add(this.checkBox1);
             this.Name = "Settings";
             this.Text = "Settings";
